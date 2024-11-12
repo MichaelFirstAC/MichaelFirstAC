@@ -47,7 +47,7 @@ I'm a passionate Computer Science student at **Binus University** with a keen in
 | Platform          | Profile Link                                                                                                                                    |
 |-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
 | **LinkedIn**      | [LinkedIn Profile](https://www.linkedin.com/in/michael-arianno-chandrarieta-06bb0928a/)                                                         |
-| **Instagram**     | [Twitter Profile](https://www.instagram.com/michael.arianno/)                                                                                   |
+| **Instagram**     | [Instagram Profile](https://www.instagram.com/michael.arianno/)                                                                                   |
 | **Outlook**       | [Email Me](mailto:michael.chandrarieta@binus.ac.id)                                                                                             |
 | **Gmail**         | [Email Me](mailto:mchandrarietta@gmail.com)                                                                                                     |
 
