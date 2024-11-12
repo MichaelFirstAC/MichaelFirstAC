@@ -1,71 +1,74 @@
-# Hi there, I'm Michael! 👋
+# Significantly Insignificant
 
 ![Header Image](ado2wp.jpg)
 
-I'm a passionate Computer Science student at **Binus University** with a keen interest in software development, web technologies, and artificial intelligence.
+I'm a passionate Computer Science student at **Binus University** with a keen interest in Game and Web Development.
 
-> "Learning never exhausts the mind." – Leonardo da Vinci
+> "Nothing can be gained without losing another, even heaven demands death"
 
 ## 🎓 About Me
 - 🌍 From: Indonesia
-- 🎓 Education: **First-semester Computer Science** at **Binus University**
-- 🌐 Focus Areas: Web Development, AI, Open-source contributions
-- 🗣️ Languages: English (TOEFL 97 iBT), German (B2 level)
+- 🎓 Education: **Computer Science** at **Binus University**
+- 🌐 Focus Areas: Game Development, Web Development.
+- 🗣️ Languages: Indonesian, English, (Minor) Japanese, (Minor) German.
 
 ## 📈 Skills
 
 | Category             | Technologies                                             |
 |----------------------|----------------------------------------------------------|
-| **Programming**      | Python, JavaScript, Java                                 |
-| **Web Development**  | HTML, CSS, JavaScript, React, Node.js                    |
-| **AI/ML**            | TensorFlow, scikit-learn, data analysis                  |
-| **Tools**            | Git, GitHub, Visual Studio Code, Docker                  |
+| **Programming**      | Python, JavaScript,                                      |
+| **Web Development**  | HTML, CSS, JavaScript                                    |
+| **Game Development** | Unity, Pygame                                            |
+| **Tools**            | GitHub, Visual Studio Code, JetBrains                    |
 
 ---
 
 <details>
   <summary>🚀 Projects (Click to Expand)</summary>
 
-| Project Name       | Description                                                                                                 | Tech Stack               | Link                       |
-|--------------------|-------------------------------------------------------------------------------------------------------------|--------------------------|----------------------------|
-| **Project 1**      | A web application to [describe project purpose, unique feature]                                             | HTML, CSS, JavaScript    | [View on GitHub](https://github.com/yourusername/project1) |
-| **Project 2**      | An AI-based tool for [description of functionality and impact]                                              | Python, TensorFlow       | [View on GitHub](https://github.com/yourusername/project2) |
-| **Project 3**      | A chatbot using [describe feature or target audience]                                                       | Python, NLTK             | [View on GitHub](https://github.com/yourusername/project3) |
+| Project Name            | Description                                                                                                 | Tech Stack               | Link                       |
+|-------------------------|-------------------------------------------------------------------------------------------------------------|--------------------------|----------------------------|
+| **A Witch's Hell**      | An endless Bullet hell game inspired by Project TOUHOU.                                                     | Python, Pygame           | [View on GitHub](https://github.com/yourusername/project1) |
+| **Treasure Keeper**     | An Expense and Income tracking web-app                                                                      | HTML, CSS, JAVASCRIPT    | [View on GitHub](https://github.com/yourusername/project2) |
+| **Personal Website**    | A Personal Website to contact and get to know me more.                                                      | HTML, CSS, JAVASCRIPT    | [View on GitHub](https://github.com/yourusername/project3) |
 
 </details>
 
 ---
 
 ## 🌱 Currently Learning
-- **JavaScript and React.js** – Working on more complex single-page applications
-- **Machine Learning** – Studying ML algorithms and libraries
-- **Data Structures & Algorithms** – Preparing for coding interviews
+- **Python** – Working on a Final Project.
+- **HTML** – Working on a Final Project.
+- **CSS** – Working on a Final Project.
+- **JAVASCRIPT** - Working on a Final Project.
+- **C#** - Learning Unity.
 
 ## 📫 Let's Connect
-| Platform          | Profile Link                                                     |
-|-------------------|-------------------------------------------------------------------|
-| **LinkedIn**      | [LinkedIn Profile](https://linkedin.com/in/your-profile)          |
-| **Twitter**       | [Twitter Profile](https://twitter.com/yourprofile)                |
-| **Email**         | [Email Me](mailto:your-email@example.com)                         |
+| Platform          | Profile Link                                                                                                                                    |
+|-------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| **LinkedIn**      | [LinkedIn Profile](https://www.linkedin.com/in/michael-arianno-chandrarieta-06bb0928a/)                                                         |
+| **Instagram**     | [Twitter Profile](https://www.instagram.com/michael.arianno/)                                                                                   |
+| **Outlook**       | [Email Me](mailto:michael.chandrarieta@binus.ac.id)                                                                                             |
+| **Gmail**         | [Email Me](mailto:mchandrarietta@gmail.com)                                                                                                     |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelFirstAC&show_icons=true&theme=radical)
 
 ---
 
 <details>
   <summary>🌟 Fun Facts (Click to Expand)</summary>
   
-  - 🎸 I enjoy playing guitar in my free time.
-  - 🌱 I have a small garden where I grow herbs.
-  - 🎮 I'm an avid gamer and enjoy RPG and strategy games.
+  - 🎮 I'm an avid gamer, i enjoy Story and RPG based games.
+  - 🏍 I own and drive a CBR250RR SP QS.
+  - 🏎 I'm a Car/Bike enthusiast.
+  - 🎵 I'm a Hoshiyomi.
+  - 🎤 I'm an Ado Fan.
   
 </details>
-
-![Footer Image](ado2wp.jpg)
 
 ---
 
