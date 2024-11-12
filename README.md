@@ -1,6 +1,6 @@
 # Hi there, I'm Michael! 👋
 
-![Header Image](images/ado2wp.jpg)
+![Header Image](ado2wp.jpg)
 
 I'm a passionate Computer Science student at **Binus University** with a keen interest in software development, web technologies, and artificial intelligence.
 
@@ -65,7 +65,7 @@ I'm a passionate Computer Science student at **Binus University** with a keen in
   
 </details>
 
-![Footer Image](https://yourimageurl.com/footer-image.jpg)
+![Footer Image](ado2wp.jpg)
 
 ---
 
