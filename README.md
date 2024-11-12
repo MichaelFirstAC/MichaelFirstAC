@@ -1,6 +1,6 @@
 # Hi there, I'm Michael! 👋
 
-![Header Image](https://yourimageurl.com/header-image.jpg)
+![Header Image](images/ado2wp)
 
 I'm a passionate Computer Science student at **Binus University** with a keen interest in software development, web technologies, and artificial intelligence.
 
