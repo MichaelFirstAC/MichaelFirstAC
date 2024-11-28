@@ -70,6 +70,7 @@
   - 🏎 I'm a Car/Bike enthusiast.
   - 🎵 I'm a Hoshiyomi.
   - 🎤 I'm an Ado Fan.
+  - 🤖 I'm a Vocaloid Listener.
   - 🛒 I'm an impulse buyer.
   - 🧍‍♂️ I'm so fucking lonely.
   
@@ -77,4 +78,4 @@
 
 ---
 
-Feel free to connect with me or check out my repositories for more!
+### Feel free to connect with me or check out my repositories for more!
