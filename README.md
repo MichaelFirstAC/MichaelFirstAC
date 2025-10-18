@@ -28,10 +28,10 @@
 
 | Project Name            | Description                                                                                                 | Tech Stack               | Link                                                       |
 |-------------------------|-------------------------------------------------------------------------------------------------------------|--------------------------|------------------------------------------------------------|
-| **A Witch's Hell**      | An endless Bullet hell game inspired by Project TOUHOU.                                                     | Python, Pygame           | [View on GitHub](https://github.com/yourusername/project1) |
-| **Treasure Keeper**     | An Expense and Income tracking web-app                                                                      | HTML, CSS, JAVASCRIPT    | [View on GitHub](https://github.com/yourusername/project2) |
-| **Personal Website**    | A Personal Website to contact and get to know me more.                                                      | HTML, CSS, JAVASCRIPT    | [View on GitHub](https://github.com/yourusername/project3) |
-| **...**                 | ...                                                                                                         | ...                      | ...                                                        |
+| **A Witch's Hell**      | An endless Bullet hell game inspired by Project TOUHOU.                                                     | Python, Pygame           | [View on Github](https://github.com/MichaelFirstAC/A-WITCH-S-HELL) |
+| **Treasure Keeper**     | An Expense and Income tracking web-app                                                                      | HTML, CSS, JAVASCRIPT    | [View on Github](https://github.com/MichaelFirstAC/TreasureKeeper) |
+| **Personal Website**    | A Personal Website to contact and get to know me more.                                                      | HTML, CSS, JAVASCRIPT    | [View on Github](https://github.com/MichaelFirstAC/MichaelFirst) |
+| **Maze-Maker Solver**   | A Maze Maker and Solver with the aim to compare Data Structures                                             | Java                     | [View on Github](https://github.com/MichaelFirstAC/Maze-Maker-Solver)|
 
 
 </details>
