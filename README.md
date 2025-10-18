@@ -17,7 +17,7 @@
 | Category             | Technologies                                             |
 |----------------------|----------------------------------------------------------|
 | **Programming**      | Python, JavaScript,                                      |
-| **Web Development**  | HTML, CSS, JavaScript                                    |
+| **Web Development**  | HTML, CSS, JavaScript, SQL                               |
 | **Game Development** | Unity, Pygame                                            |
 | **Tools**            | GitHub, Visual Studio Code, JetBrains                    |
 
