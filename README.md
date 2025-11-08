@@ -32,7 +32,7 @@
 | **Personal Website**    | A Personal Website to contact and get to know me more.                                                      | HTML, CSS, JAVASCRIPT    | [View on Github](https://github.com/MichaelFirstAC/MichaelFirst) |
 | **Maze-Maker Solver**   | A Maze Maker and Solver with the aim to compare Data Structures                                             | Java                     | [View on Github](https://github.com/MichaelFirstAC/Maze-Maker-Solver)|
 | **Event Manager System**| An Event Managing Systerm using SQL as its Database                                                         | Python, SQL, HTML, CSS, JAVASCRIPT| [View on Github](https://github.com/MichaelFirstAC/EventManager)|
-| **Movie Catalog**      | A Movie Catalog with a built in Movie Reccomending System.                                                   | Python, HTML, Tailwind CSS, Jupyter Notebook | [View on Github](https://github.com/MichaelFirstAC/EventManager) |
+| **Movie Catalog**      | A Movie Catalog with a built in Movie Reccomending System.                                                   | Python, HTML, Tailwind CSS, Jupyter Notebook | [View on Github](https://github.com/MichaelFirstAC/MovieCatalog) |
 | **Interactive Visual Compressor**      | An Interactive visual Compression System using Different Algorithms.                                    | ...                      | View on Github |
 
 ---
