@@ -32,13 +32,6 @@
 | **Instagram**     | [Instagram Profile](https://www.instagram.com/michael.arianno/)                                                                                   |
 | **Outlook**       | [Email Me](mailto:michael.chandrarieta@binus.ac.id)                                                                                             |
 | **Gmail**         | [Email Me](mailto:mchandrarietta@gmail.com)                                                                                                     |
-
----
-
-## 📊 GitHub Stats
-
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelFirstAC&show_icons=true&theme=radical)
-
 ---
 
 ### Feel free to connect with me or check out my repositories for more!
