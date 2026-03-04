@@ -9,19 +9,6 @@
 ## 🎓 About Me
 - 🌍 From: Jakarta, Indonesia.
 - 🎓 Education: **Computer Science** at **Binus University**
-- 🌐 Focus Areas: Game Development, Web Development, App Development.
-- 🗣️ Languages: Indonesian, English, (Minor) Japanese, (Minor) German.
-
-## 📈 Skills
-
-| Category             | Technologies                                             |
-|----------------------|----------------------------------------------------------|
-| **Programming**      | Python, Java, C#                                      |
-| **Web Development**  | HTML, CSS, JavaScript, SQL                               |
-| **Game Development** | Unity, Pygame                                            |
-| **Tools**            | GitHub, Visual Studio Code, JetBrains, MySQL Workbench, Jupyter Notebook                    |
-
----
 
 🚀 Projects
 
@@ -33,18 +20,10 @@
 | **Maze-Maker Solver**   | A Maze Maker and Solver with the aim to compare Data Structures                                             | Java                     | [View on Github](https://github.com/MichaelFirstAC/Maze-Maker-Solver)|
 | **Event Manager System**| An Event Managing Systerm using SQL as its Database                                                         | Python, SQL, HTML, CSS, JAVASCRIPT| [View on Github](https://github.com/MichaelFirstAC/EventManager)|
 | **Movie Catalog**      | A Movie Catalog with a built in Movie Reccomending System.                                                   | Python, HTML, Tailwind CSS, Jupyter Notebook | [View on Github](https://github.com/MichaelFirstAC/MovieCatalog) |
-| **Interactive Visual Compressor**      | An Interactive visual Compression System using Different Algorithms.                                    | ...                      | View on Github |
+| **Interactive Visual Compressor**      | An Interactive visual Compression System using Different Algorithms.                         | Python                      | [View on Github](https://github.com/MichaelFirstAC/ImageCompressor.git) |
+| **Drug Repurposing**      | A Drug repurposing software using GNNs.                                                                   | Python           | [View on Github](https://github.com/MichaelFirstAC/Drug-Repurposing-using-Graph-Neural-Networks.git) |
 
 ---
-
-## 🌱 Currently Learning
-- **Python** – Working on a Final Project.
-- **HTML** – Working on a Final Project.
-- **CSS** – Working on a Final Project.
-- **JAVASCRIPT** - Working on a Final Project.
-- **C#** - Learning Unity.
-- **MySQL** - Working on a Final Project.
-- **JAVA** - Working on a Final Project.
 
 ## 📫 Let's Connect
 | Platform          | Profile Link                                                                                                                                    |
@@ -59,21 +38,6 @@
 ## 📊 GitHub Stats
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelFirstAC&show_icons=true&theme=radical)
-
----
-
-🌟 Fun Facts
-  
-  - 🎮 I'm an avid gamer, I enjoy Story and RPG-based games.
-  - 🎮 I have a love-hate relationship with competitive games.
-  - 🏍 I own and drive a CBR250RR SP QS.
-  - 🏎 I'm a Car/Bike enthusiast.
-  - 🎵 I'm a Hoshiyomi.
-  - 🎤 I'm an Ado Fan.
-  - 🤖 I'm a Vocaloid Listener.
-  - 🛒 I'm an impulse buyer.
-  - 🧍‍♂️ I'm so fucking lonely.
-  
 
 ---
 
