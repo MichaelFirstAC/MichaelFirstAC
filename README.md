@@ -14,7 +14,7 @@
 
 | Project Name            | Description                                                                                                 | Tech Stack               | Link                                                       |
 |-------------------------|-------------------------------------------------------------------------------------------------------------|--------------------------|------------------------------------------------------------|
-| **A Witch's Hell**      | An endless Bullet hell game inspired by Project TOUHOU.                                                     | Python, Pygame, Math, Random           | [View on Github](https://github.com/MichaelFirstAC/A-WITCH-S-HELL) |
+| **A Witch's Hell**      | An endless Bullet hell Fanmade game of PROJECT TOUHOU.                                                     | Python, Pygame, Math, Random           | [View on Github](https://github.com/MichaelFirstAC/A-WITCH-S-HELL) |
 | **Treasure Keeper**     | An Expense and Income tracking web-app                                                                      | HTML, CSS, Javascript, Google Fonts    | [View on Github](https://github.com/MichaelFirstAC/TreasureKeeper) |
 | **Personal Website**    | A Personal Website to contact and get to know me more.                                                      | HTML, CSS, Javascript    | [View on Github](https://github.com/MichaelFirstAC/MichaelFirst) |
 | **Maze-Maker Solver**   | A Maze Maker and Solver with the aim to compare Data Structures                                             | Java                     | [View on Github](https://github.com/MichaelFirstAC/Maze-Maker-Solver)|
