@@ -22,6 +22,9 @@
 | **Movie Catalog**      | A Movie Catalog with a built in Movie Reccomending System.                                                   | Python, HTML, Tailwind CSS, Jupyter Notebook | [View on Github](https://github.com/MichaelFirstAC/MovieCatalog) |
 | **Interactive Visual Compressor**      | An Interactive visual Compression System using Different Algorithms.                         | Python                      | [View on Github](https://github.com/MichaelFirstAC/ImageCompressor.git) |
 | **Drug Repurposing**      | A Drug repurposing software using GNNs.                                                                   | Python           | [View on Github](https://github.com/MichaelFirstAC/Drug-Repurposing-using-Graph-Neural-Networks.git) |
+| **HelpImTooLazy**      | Study Planner and Productivity Tracker.                                                   | Next.js, Node.js, RESTful API, PostgreSQL, Firebase Auth, Docker | [View on Github](https://github.com/Timotimanuel12/WADS_Final_Project.git) |
+
+
 
 ---
 
