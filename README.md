@@ -22,7 +22,7 @@
 | **Movie Catalog**      | A Movie Catalog with a built in Movie Reccomending System.                                                   | Python, HTML, Tailwind CSS, Pandas, Numpy, Flask, Sklearn, Notebook | [View on Github](https://github.com/MichaelFirstAC/MovieCatalog) |
 | **Interactive Visual Compressor**      | An Interactive visual Compression System using Different Algorithms.                         | Python, Tkinter, Numpy, PIL                      | [View on Github](https://github.com/MichaelFirstAC/ImageCompressor.git) |
 | **Drug Repurposing**      | A Drug repurposing software using GNNs.                                                                   | Python, Sklearn, Torch, Pandas, Numpy, Pubchempy, Matplotlib, Mlflow           | [View on Github](https://github.com/MichaelFirstAC/Drug-Repurposing-using-Graph-Neural-Networks.git) |
-| **HelpImTooLazy**      | Study Planner and Productivity Tracker.                                                   | Next.js, Node.js, RESTful API, PostgreSQL, Firebase Auth, Docker | [View on Github](https://github.com/Timotimanuel12/WADS_Final_Project.git) |
+| **HelpImTooLazy**      | Study Planner and Productivity Tracker.                                                   | Typescript, HTML, CSS, Javascript, Next.js, Node.js, RESTful API, PostgreSQL, Firebase Auth, Docker | [View on Github](https://github.com/Timotimanuel12/WADS_Final_Project.git) |
 | **Planet Orbit Simulation**      | Planet Orbit Simulation.                                                  | Python, Pygame, Math, Planets | [View on Github](https://github.com/Timotimanuel12/Comp_Physics_FP.git) |
 
 ---
