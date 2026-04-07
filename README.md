@@ -2,9 +2,9 @@
 
 ![Header Image](ado2wp.jpg)
 
-### I'm a passionate Computer Science student at **Binus University** with a keen interest in Game, Web, and App Development.
+#### I'm a passionate Computer Science student at **Binus University** with a keen interest in Game, Web, and App Development.
 
-### > "Nothing can be gained without losing another, even heaven demands death"
+### "Nothing can be gained without losing another, even heaven demands death"
 
 ## 🎓 About Me
 - 🌍 From: Jakarta, Indonesia.
