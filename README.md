@@ -23,7 +23,7 @@
 | **Interactive Visual Compressor**      | An Interactive visual Compression System using Different Algorithms.                         | Python, Tkinter, Numpy, PIL                      | [View on Github](https://github.com/MichaelFirstAC/ImageCompressor.git) |
 | **Drug Repurposing**      | A Drug repurposing software using GNNs.                                                                   | Python, Sklearn, Torch, Pandas, Numpy, Pubchempy, Matplotlib, Mlflow           | [View on Github](https://github.com/MichaelFirstAC/Drug-Repurposing-using-Graph-Neural-Networks.git) |
 | **HelpImTooLazy**      | Study Planner and Productivity Tracker.                                                   | Typescript, HTML, CSS, Javascript, Next.js, Node.js, RESTful API, PostgreSQL, Prisma ORM, Swagger UI, Firebase Auth, Docker | [View on Github](https://github.com/Timotimanuel12/WADS_Final_Project.git) |
-| **Planet Orbit Simulation**      | Planet Orbit Simulation.                                                  | Python, Pygame, Math, Planets | [View on Github](https://github.com/Timotimanuel12/Comp_Physics_FP.git) |
+| **Planet Orbit Simulation**      | Planet Orbit Simulation.                                                  | Three.js, HTML, CSS,  | [View on Github](https://github.com/MichaelFirstAC/3D-Solar-System-using-Three.js) |
 
 ---
 
