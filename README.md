@@ -57,7 +57,10 @@ I'm a **Computer Science** student at **Binus University**, Jakarta 🇮🇩 —
 | **Drug Repurposing via GNNs** | Applies Graph Neural Networks to discover new uses for existing drugs. | Python, PyTorch, Scikit-learn, MLflow | [GitHub](https://github.com/MichaelFirstAC/Drug-Repurposing-using-Graph-Neural-Networks.git) |
 | **HelpImTooLazy** | Study planner and productivity tracker with authentication and REST API. | TypeScript, Next.js, PostgreSQL, Prisma, Docker, Firebase | [GitHub](https://github.com/Timotimanuel12/WADS_Final_Project.git) |
 | **3D Planet Orbit Simulation** | Interactive 3D solar system simulation rendered in the browser. | Three.js, HTML, CSS | [GitHub](https://github.com/MichaelFirstAC/3D-Solar-System-using-Three.js) |
-| **CPU Scheduling Simulation** | Fully animated and interactive simulation of CPU scheduling algorithms, deployable as a standalone app. | Python, Node.JS, Vite, React, Typescript | [GitHub](https://github.com/MichaelFirstAC/CPU-Scheduling-Simulation) |
+| **CPU Scheduling Simulation** | Fully animated and interactive simulation of CPU scheduling algorithms, deployable as a standalone app. | Python, TypeScript, React, Vite | [GitHub](https://github.com/MichaelFirstAC/CPU-Scheduling-Simulation) |
+| **Personal Website** | Portfolio website to showcase my work and contact information. | HTML, CSS, JavaScript | [GitHub](https://github.com/MichaelFirstAC/MichaelFirst) |
+| **Tower of Hanoi Visualizer** | Animated step-by-step visualization of the Tower of Hanoi problem using recursive data structures. | Python | [GitHub](https://github.com/MichaelFirstAC/DS-Tower-of-Hanoi) |
+| **Kruskal & Prim Algorithm Demo** | Implements and benchmarks Kruskal's and Prim's minimum spanning tree algorithms on DIMACS graph datasets. | Python | [GitHub](https://github.com/MichaelFirstAC/Dimac-9th-Krus-Prim-Algorithm) |
 
 ---
 
