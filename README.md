@@ -57,7 +57,7 @@ I'm a **Computer Science** student at **Binus University**, Jakarta 🇮🇩 —
 | **Drug Repurposing via GNNs** | Applies Graph Neural Networks to discover new uses for existing drugs. | Python, PyTorch, Scikit-learn, MLflow | [GitHub](https://github.com/MichaelFirstAC/Drug-Repurposing-using-Graph-Neural-Networks.git) |
 | **HelpImTooLazy** | Study planner and productivity tracker with authentication and REST API. | TypeScript, Next.js, PostgreSQL, Prisma, Docker, Firebase | [GitHub](https://github.com/Timotimanuel12/WADS_Final_Project.git) |
 | **3D Planet Orbit Simulation** | Interactive 3D solar system simulation rendered in the browser. | Three.js, HTML, CSS | [GitHub](https://github.com/MichaelFirstAC/3D-Solar-System-using-Three.js) |
-| **CPU Scheduling Simulation** | Fully animated and interactive simulation of CPU scheduling algorithms, deployable as a standalone app. | Python | [GitHub](https://github.com/MichaelFirstAC/CPU-Scheduling-Simulation) |
+| **CPU Scheduling Simulation** | Fully animated and interactive simulation of CPU scheduling algorithms, deployable as a standalone app. | Python, Node.JS, Vite, React, Typescript | [GitHub](https://github.com/MichaelFirstAC/CPU-Scheduling-Simulation) |
 
 ---
 
