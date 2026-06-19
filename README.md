@@ -1,7 +1,7 @@
 # Hi there, I'm Michael 👋
 
 <p align="center">
-  <img src="adocampanella.gif" alt="Michael Arianno Banner" width="100%" />
+  <img src="ado2wp.jpg" alt="Michael Arianno Banner" width="100%" />
 </p>
 
 <p align="center">
