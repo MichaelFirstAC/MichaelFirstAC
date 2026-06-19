@@ -1,7 +1,7 @@
-# Hi there, I'm Michael 👋
+# Hi there, I'm MichaelFirstAC 👋
 
 <p align="center">
-  <img src="ado2wp.jpg" alt="Michael Arianno Banner" width="100%" />
+  <img src="ado2wp.jpg" alt="MichaelFirstAC Banner" width="100%" />
 </p>
 
 <p align="center">
