@@ -1,6 +1,12 @@
 # Hi there, I'm Michael 👋
 
-![Header Image](ado2wp.jpg)
+<p align="center">
+  <img src="adocampanella.gif" alt="Michael Arianno Banner" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C6AF7&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;Game+%7C+Web+%7C+App+Developer+%F0%9F%9A%80;Always+building%2C+always+learning+%F0%9F%94%A5;Jakarta%2C+Indonesia+%F0%9F%87%AE%F0%9F%87%A9" alt="Typing SVG" /></a>
+</p>
 
 > *"Nothing can be gained without losing another. For even heaven demands your death."*
 
