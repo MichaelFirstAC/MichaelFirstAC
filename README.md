@@ -56,23 +56,17 @@ I'm a **Computer Science** student at **Binus University**, Jakarta 🇮🇩 —
 
 ---
 
-## 🚀 Projects
+## 🌐 My Portfolio
 
-| Project | Description | Tech Stack | Link |
-|---------|-------------|------------|------|
-| **Personal Website** | A personal website designed to introduce me and my identity. | TypeScript, Next.js, Vite | [GitHub](https://michaelfirstac.vercel.app/) |
-| **A Witch's Hell** | An endless bullet hell fan-game inspired by the Touhou Project. | Python, Pygame | [GitHub](https://github.com/MichaelFirstAC/A-WITCH-S-HELL) |
-| **Treasure Keeper** | A personal finance web app for tracking income and expenses. | HTML, CSS, JavaScript | [GitHub](https://github.com/MichaelFirstAC/TreasureKeeper) |
-| **Maze Maker & Solver** | Visualizes maze generation and solving algorithms to compare data structures. | Java | [GitHub](https://github.com/MichaelFirstAC/Maze-Maker-Solver) |
-| **Event Manager System** | Full-stack event management platform with SQL database backend. | Python, SQL, Flask, HTML, CSS, JavaScript | [GitHub](https://github.com/MichaelFirstAC/EventManager) |
-| **Movie Catalog** | Movie catalog with a content-based recommendation engine. | Python, Flask, Pandas, Scikit-learn, Tailwind CSS | [GitHub](https://github.com/MichaelFirstAC/MovieCatalog) |
-| **Interactive Visual Compressor** | Visualizes and compares image compression algorithms interactively. | Python, Tkinter, NumPy, PIL | [GitHub](https://github.com/MichaelFirstAC/ImageCompressor.git) |
-| **Drug Repurposing via GNNs** | Applies Graph Neural Networks to discover new uses for existing drugs. | Python, PyTorch, Scikit-learn, MLflow | [GitHub](https://github.com/MichaelFirstAC/Drug-Repurposing-using-Graph-Neural-Networks.git) |
-| **HelpImTooLazy** | Study planner and productivity tracker with authentication and REST API. | TypeScript, Next.js, PostgreSQL, Prisma, Docker, Firebase | [GitHub](https://github.com/Timotimanuel12/WADS_Final_Project.git) |
-| **3D Planet Orbit Simulation** | Interactive 3D solar system simulation rendered in the browser. | Three.js, HTML, CSS | [GitHub](https://github.com/MichaelFirstAC/3D-Solar-System-using-Three.js) |
-| **CPU Scheduling Simulation** | Fully animated and interactive simulation of CPU scheduling algorithms, deployable as a standalone app. | Python, TypeScript, React, Vite | [GitHub](https://github.com/MichaelFirstAC/CPU-Scheduling-Simulation) |
-| **Tower of Hanoi Visualizer** | Animated step-by-step visualization of the Tower of Hanoi problem using recursive data structures. | Python | [GitHub](https://github.com/MichaelFirstAC/DS-Tower-of-Hanoi) |
-| **Kruskal & Prim Algorithm Demo** | Implements and benchmarks Kruskal's and Prim's minimum spanning tree algorithms on DIMACS graph datasets. | Python | [GitHub](https://github.com/MichaelFirstAC/Dimac-9th-Krus-Prim-Algorithm) |
+<p align="center">
+  <a href="https://michaelfirstac.vercel.app/">
+    <img src="https://img.shields.io/badge/🚀_Visit_My_Website-michaelfirstac.vercel.app-7C6AF7?style=for-the-badge&logoColor=white&labelColor=1a1a2e&color=7C6AF7" alt="Personal Website" height="50" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Explore my projects, skills, experience, and more — all in one place.</sub>
+</p>
 
 ---
 
