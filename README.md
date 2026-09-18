@@ -1,5 +1,4 @@
 # Hi there, I'm MichaelFirstAC 👋
-### https://michaelfirstac.vercel.app/
 
 <p align="center">
   <img src="ado2wp.jpg" alt="MichaelFirstAC Banner" width="100%" />
