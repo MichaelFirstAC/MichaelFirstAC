@@ -80,7 +80,7 @@ I'm a **Computer Science** student at **Binus University**, Jakarta 🇮🇩 —
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=MichaelFirstAC&rank_icon=github&custom_title=M-FirstAC%20Stats&show_icons=true&include_all_commits=true&theme=midnight-purple" alt="Michael's GitHub Stats" />
-  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelFirstAC&layout=compact&theme=tokyonight&hide_border=true](https://github-stats-extended.vercel.app/api/top-langs?username=MichaelFirstAC&langs_count=5&theme=midnight-purple)" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=MichaelFirstAC&langs_count=5&theme=midnight-purple" alt="Top Languages" />
 </p>
 
 ---
