@@ -1,4 +1,5 @@
 # Hi there, I'm MichaelFirstAC 👋
+### https://michaelfirstac.vercel.app/
 
 <p align="center">
   <img src="ado2wp.jpg" alt="MichaelFirstAC Banner" width="100%" />
@@ -60,7 +61,7 @@ I'm a **Computer Science** student at **Binus University**, Jakarta 🇮🇩 —
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **Personal Website** | A personal website designed to introduce me and my identity. | TypeScript, Next.js, Vite | [GitHub](https://github.com/MichaelFirstAC/Personal-Website---Nocturne.git) |
+| **Personal Website** | A personal website designed to introduce me and my identity. | TypeScript, Next.js, Vite | [GitHub](https://michaelfirstac.vercel.app/) |
 | **A Witch's Hell** | An endless bullet hell fan-game inspired by the Touhou Project. | Python, Pygame | [GitHub](https://github.com/MichaelFirstAC/A-WITCH-S-HELL) |
 | **Treasure Keeper** | A personal finance web app for tracking income and expenses. | HTML, CSS, JavaScript | [GitHub](https://github.com/MichaelFirstAC/TreasureKeeper) |
 | **Maze Maker & Solver** | Visualizes maze generation and solving algorithms to compare data structures. | Java | [GitHub](https://github.com/MichaelFirstAC/Maze-Maker-Solver) |
